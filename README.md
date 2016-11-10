@@ -10,3 +10,4 @@ Everything I liked
 - [learnapollo/pokedex-react: A Pokedex App using and teaching Apollo and React](https://github.com/learnapollo/pokedex-react) 
 - [Learn Apollo](https://learnapollo.org/) 
 - [marmelab/admin-on-rest: A frontend framework for building admin SPAs on top of REST services, using React](https://github.com/marmelab/admin-on-rest) 
+- [What I learned from building my first React Native App | cmichel.io](http://cmichel.io/lessons-from-building-first-react-native-app/) 
