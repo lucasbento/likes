@@ -9,3 +9,4 @@ Everything I liked
 - [Last Day at PayPal, a New Day for Node – Medium](https://medium.com/@tlivings/last-day-at-paypal-a-new-day-for-node-f00002cee3bf#.k573gnd17)
 - [learnapollo/pokedex-react: A Pokedex App using and teaching Apollo and React](https://github.com/learnapollo/pokedex-react) 
 - [Learn Apollo](https://learnapollo.org/) 
+- [marmelab/admin-on-rest: A frontend framework for building admin SPAs on top of REST services, using React](https://github.com/marmelab/admin-on-rest) 
