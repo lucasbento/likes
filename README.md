@@ -11,3 +11,4 @@ Everything I liked
 - [Learn Apollo](https://learnapollo.org/) 
 - [marmelab/admin-on-rest: A frontend framework for building admin SPAs on top of REST services, using React](https://github.com/marmelab/admin-on-rest) 
 - [What I learned from building my first React Native App | cmichel.io](http://cmichel.io/lessons-from-building-first-react-native-app/) 
+- [segmentio/nightmare: A high-level browser automation library.](https://github.com/segmentio/nightmare) 
