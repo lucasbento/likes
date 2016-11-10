@@ -8,3 +8,4 @@ Everything I liked
 - [Animate Styles of a React Native View with Animated.timing - react Video Tutorial #free @eggheadio](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view) 
 - [Last Day at PayPal, a New Day for Node – Medium](https://medium.com/@tlivings/last-day-at-paypal-a-new-day-for-node-f00002cee3bf#.k573gnd17)
 - [learnapollo/pokedex-react: A Pokedex App using and teaching Apollo and React](https://github.com/learnapollo/pokedex-react) 
+- [Learn Apollo](https://learnapollo.org/) 
