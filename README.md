@@ -19,3 +19,4 @@ Everything I liked
 - [So you want to be a professional coder? – JavaScript Scene – Medium](https://medium.com/javascript-scene/so-you-want-to-be-a-professional-coder-a3b5deb5329f#.nn5zkkl3t) 
 - [React PropTypes & Flow types cheat sheet – Medium](https://medium.com/@chenglou/react-proptypes-flow-types-cheat-sheet-ed80f8e1383d#.cuzaio4et) 
 - [hackpacific/AskAnything](https://github.com/hackpacific/AskAnything) 
+- [What we learned after using React Native for a year - Hashnode](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp) 
