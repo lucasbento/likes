@@ -20,3 +20,4 @@ Everything I liked
 - [React PropTypes & Flow types cheat sheet – Medium](https://medium.com/@chenglou/react-proptypes-flow-types-cheat-sheet-ed80f8e1383d#.cuzaio4et) 
 - [hackpacific/AskAnything](https://github.com/hackpacific/AskAnything) 
 - [What we learned after using React Native for a year - Hashnode](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp) 
+- [Awards in Open Source – Medium](https://medium.com/@thejameskyle/awards-in-open-source-35d21fc38f29#.if6n3s8za) 
