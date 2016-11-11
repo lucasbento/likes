@@ -14,3 +14,6 @@ Everything I liked
 - [segmentio/nightmare: A high-level browser automation library.](https://github.com/segmentio/nightmare) 
 - [Chrome Dev Summit 2016](https://developer.chrome.com/devsummit/) 
 - [JSBros/hedron: A no-frills flexbox grid system for React, powered by styled-components.](https://github.com/jsbros/hedron) 
+
+### November 11, 2016
+- [So you want to be a professional coder? – JavaScript Scene – Medium](https://medium.com/javascript-scene/so-you-want-to-be-a-professional-coder-a3b5deb5329f#.nn5zkkl3t) 
