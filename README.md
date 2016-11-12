@@ -30,3 +30,4 @@ Everything I liked
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.kmw68fa50) 
 - [How to implement viewerCanSee in GraphQL – Medium](https://medium.com/@sibelius/how-to-implement-viewercansee-in-graphql-78cc48de7464#.7k03en75i) 
 - [Blueprint – A React UI toolkit for the Web](http://blueprintjs.com/) 
+- [relayjs/relay-codemod: A set of utility scripts, written using jscodeshift, that can be used by community members and Facebook alike to upgrade Relay APIs in an automated fashion.](https://github.com/relayjs/relay-codemod) 
