@@ -24,3 +24,4 @@ Everything I liked
 
 ### November 12, 2016
 - [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.kf6zhmbq0) 
+- [The Progress of Node.js a Year Post Node.js and io.js Merge and Where the Technology is Going – Medium](https://medium.com/@nodejs/the-progress-of-node-js-a-year-post-node-js-and-io-js-merge-and-where-the-technology-is-going-f168ce9ec8ee#.eybc7k42e) 
