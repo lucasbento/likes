@@ -28,3 +28,4 @@ Everything I liked
 - [Fuck You Startup World – Startup Grind – Medium](https://medium.com/startup-grind/fuck-you-startup-world-ab6cc72fad0e#.sxv01csgt) 
 - [Native Apps are Doomed – JavaScript Scene – Medium](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.b3oaemz62) 
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.kmw68fa50) 
+- [How to implement viewerCanSee in GraphQL – Medium](https://medium.com/@sibelius/how-to-implement-viewercansee-in-graphql-78cc48de7464#.7k03en75i) 
