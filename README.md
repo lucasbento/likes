@@ -34,3 +34,6 @@ Everything I liked
 - [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.fux4ilg75) 
 - [Using React Native UI toolkits with Exponent](https://blog.getexponent.com/using-react-native-ui-toolkits-with-exponent-3993434caf66#.vr5p63447) 
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.ui8j4st3i) 
+
+### November 13, 2016
+- [How to implement viewerCanSee in GraphQL – Medium](https://medium.com/@sibelius/how-to-implement-viewercansee-in-graphql-78cc48de7464#.m4qkle4v1) 
