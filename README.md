@@ -43,3 +43,4 @@ Everything I liked
 - [Answered on Slack: Ejecting from Exponent](https://blog.getexponent.com/answered-on-slack-ejecting-from-exponent-154bdca57dc1#.30eme6yuq) 
 - [An Argument for Automation – Medium](https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2#.aul1xnv6k) 
 - [Show OSX notification when long running command finishes and your terminal is not in focus / frantic.im](http://frantic.im/notify-on-completion) 
+- [Power a Github Notification Bot for Issue Reviewers with Graph Based NLP](http://graphaware.com/neo4j/nlp/2016/09/06/power-a-github-bot-for-issue-reviewers-with-graph-based-nlp.html) 
