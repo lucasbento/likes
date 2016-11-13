@@ -42,3 +42,4 @@ Everything I liked
 - [Why Exponent on React Native, especially for Clojurescript – Medium](https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65#.wgdzvyzb7) 
 - [Answered on Slack: Ejecting from Exponent](https://blog.getexponent.com/answered-on-slack-ejecting-from-exponent-154bdca57dc1#.30eme6yuq) 
 - [An Argument for Automation – Medium](https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2#.aul1xnv6k) 
+- [Show OSX notification when long running command finishes and your terminal is not in focus / frantic.im](http://frantic.im/notify-on-completion) 
