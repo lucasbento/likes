@@ -37,3 +37,4 @@ Everything I liked
 
 ### November 13, 2016
 - [How to implement viewerCanSee in GraphQL – Medium](https://medium.com/@sibelius/how-to-implement-viewercansee-in-graphql-78cc48de7464#.m4qkle4v1) 
+- [How I Found Myself Accused of Stealing Code from WordPress – Medium](https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.pnlwlrd4b) 
