@@ -40,3 +40,4 @@ Everything I liked
 - [How I Found Myself Accused of Stealing Code from WordPress – Medium](https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.pnlwlrd4b) 
 - [Why Deep Work Helps You Get More Done in Less Time – The Mission – Medium](https://medium.com/the-mission/why-deep-work-helps-you-get-more-done-in-less-time-39de3f5e9ae6#.9jzgqwtkl) 
 - [Why Exponent on React Native, especially for Clojurescript – Medium](https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65#.wgdzvyzb7) 
+- [Answered on Slack: Ejecting from Exponent](https://blog.getexponent.com/answered-on-slack-ejecting-from-exponent-154bdca57dc1#.30eme6yuq) 
