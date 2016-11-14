@@ -47,3 +47,4 @@ Everything I liked
 
 ### November 14, 2016
 - [40 Inspiring examples of mobile feeds](https://medium.muz.li/40-inspiring-examples-of-mobile-feeds-9dcc9f5c47c3#.82z29ski1) 
+- [The Art of Stealing: How to Become a Master Designer](https://uxplanet.org/the-art-of-stealing-how-to-become-a-master-designer-7c5c3753cdb9#.za4fa0eo1) 
