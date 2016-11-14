@@ -50,3 +50,4 @@ Everything I liked
 - [The Art of Stealing: How to Become a Master Designer](https://uxplanet.org/the-art-of-stealing-how-to-become-a-master-designer-7c5c3753cdb9#.za4fa0eo1) 
 - [benjamn/recast: JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator](https://github.com/benjamn/recast) 
 - [Lumber - The Admin Microservice Generator](http://www.forestadmin.com/lumber?ref=producthunt) 
+- [graphql-compose-mongoose/fieldsConverter.js at 3ebcbb0c17bcf51c37e93b5498c23555aa92259c · nodkz/graphql-compose-mongoose](https://github.com/nodkz/graphql-compose-mongoose/blob/3ebcbb0c17bcf51c37e93b5498c23555aa92259c/src/fieldsConverter.js#L105) 
