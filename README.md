@@ -44,3 +44,6 @@ Everything I liked
 - [An Argument for Automation – Medium](https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2#.aul1xnv6k) 
 - [Show OSX notification when long running command finishes and your terminal is not in focus / frantic.im](http://frantic.im/notify-on-completion) 
 - [Power a Github Notification Bot for Issue Reviewers with Graph Based NLP](http://graphaware.com/neo4j/nlp/2016/09/06/power-a-github-bot-for-issue-reviewers-with-graph-based-nlp.html) 
+
+### November 14, 2016
+- [40 Inspiring examples of mobile feeds](https://medium.muz.li/40-inspiring-examples-of-mobile-feeds-9dcc9f5c47c3#.82z29ski1) 
