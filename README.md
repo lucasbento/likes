@@ -51,3 +51,6 @@ Everything I liked
 - [benjamn/recast: JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator](https://github.com/benjamn/recast) 
 - [Lumber - The Admin Microservice Generator](http://www.forestadmin.com/lumber?ref=producthunt) 
 - [graphql-compose-mongoose/fieldsConverter.js at 3ebcbb0c17bcf51c37e93b5498c23555aa92259c · nodkz/graphql-compose-mongoose](https://github.com/nodkz/graphql-compose-mongoose/blob/3ebcbb0c17bcf51c37e93b5498c23555aa92259c/src/fieldsConverter.js#L105) 
+
+### November 17, 2016
+- [Designing the new Uber App – Uber Design – Medium](https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e#.y01x1wejp) 
