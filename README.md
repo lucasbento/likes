@@ -55,3 +55,4 @@ Everything I liked
 ### November 17, 2016
 - [Designing the new Uber App – Uber Design – Medium](https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e#.y01x1wejp) 
 - [Animate Your React Native App](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) 
+- [Animations](https://facebook.github.io/react-native/docs/animations.html) 
