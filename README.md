@@ -56,3 +56,6 @@ Everything I liked
 - [Designing the new Uber App – Uber Design – Medium](https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e#.y01x1wejp) 
 - [Animate Your React Native App](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) 
 - [Animations](https://facebook.github.io/react-native/docs/animations.html) 
+
+### November 18, 2016
+- [RANGE_ADD mutations and the mysterious Relay Range Behaviors](http://mgiroux.me/2016/the-mysterious-relay-range-behaviours/) 
