@@ -61,3 +61,4 @@ Everything I liked
 - [RANGE_ADD mutations and the mysterious Relay Range Behaviors](http://mgiroux.me/2016/the-mysterious-relay-range-behaviours/) 
 - [Announcing NativeBase Kitchen Sink App: All components in one place!](https://blog.nativebase.io/nativebase-presents-the-kitchensink-b22886f6bd0a#.c4yu552gh) 
 - [React Native with Apollo— Part 1, Apollo Server – React Native Training – Medium](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.jkw48eu6v) 
+- [Bugsnag Blog - Crash reporting for React Native](https://blog.bugsnag.com/bugsnag-react-native/) 
