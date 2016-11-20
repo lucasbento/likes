@@ -65,3 +65,6 @@ Everything I liked
 
 ### November 19, 2016
 - [Tips for making a CLI-based tool with node – Medium](https://medium.com/@kentcdodds/tips-for-making-a-cli-based-tool-with-node-9903255c2a3b#.mfagdkv4x) 
+
+### November 20, 2016
+- [AST explorer](https://astexplorer.net/) 
