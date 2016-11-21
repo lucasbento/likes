@@ -68,3 +68,6 @@ Everything I liked
 
 ### November 20, 2016
 - [AST explorer](https://astexplorer.net/) 
+
+### November 21, 2016
+- [Mark Erikson's response to When should you actually use Redux; given you can manage all your state in a top level component? Where do you draw the line?](https://hashnode.com/post/when-should-you-actually-use-redux-given-you-can-manage-all-your-state-in-a-top-level-component-where-do-you-draw-the-line-civqotbp70glrzp53gornwz51/answer/civqwohud0hijzp53nu6m11my) 
