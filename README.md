@@ -74,3 +74,6 @@ Everything I liked
 - [An Introduction Into Lenses In JavaScript – JavaScript Inside – Medium](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.jelmr29r3) 
 - [Learn Apollo](https://learnapollo.com/introduction/introduction/) 
 - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/) 
+
+### November 24, 2016
+- [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.rgqk42kzr) 
