@@ -77,3 +77,4 @@ Everything I liked
 
 ### November 24, 2016
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.rgqk42kzr) 
+- [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
