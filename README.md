@@ -78,3 +78,6 @@ Everything I liked
 ### November 24, 2016
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.rgqk42kzr) 
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
+
+### November 25, 2016
+- [Relay Integration Test with Jest – Medium](https://medium.com/@sibelius/relay-integration-test-with-jest-71236fb36d44#.21oqw3duf) 
