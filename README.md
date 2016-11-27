@@ -85,3 +85,4 @@ Everything I liked
 
 ### November 26, 2016
 - [Our Projects | Open Source at Facebook | Facebook Code](https://code.facebook.com/projects/) 
+- [Testing React & Redux Applications – Medium](https://medium.com/@ryancollinsio/testing-react-redux-applications-fee79ac0087f#.12rc6gh8o) 
