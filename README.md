@@ -87,3 +87,4 @@ Everything I liked
 - [Our Projects | Open Source at Facebook | Facebook Code](https://code.facebook.com/projects/) 
 - [Testing React & Redux Applications – Medium](https://medium.com/@ryancollinsio/testing-react-redux-applications-fee79ac0087f#.12rc6gh8o) 
 - [Testing React Native with the *new* Jest — Part II](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.5gsa3hksz) 
+- [David, a dependency management tool for Node.js projects](https://david-dm.org/) 
