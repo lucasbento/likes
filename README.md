@@ -89,3 +89,6 @@ Everything I liked
 - [Testing React Native with the *new* Jest — Part II](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.5gsa3hksz) 
 - [David, a dependency management tool for Node.js projects](https://david-dm.org/) 
 - [Screen generators via Plugin by GantMan · Pull Request #498 · infinitered/ignite](https://github.com/infinitered/ignite/pull/498) 
+
+### November 28, 2016
+- [Your First GraphQL Server – The GraphQLHub – Medium](https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2#.8d4d2xqd7) 
