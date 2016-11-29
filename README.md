@@ -95,3 +95,4 @@ Everything I liked
 
 ### November 29, 2016
 - [README.md not updating across publishes. · Issue #42 · npm/registry](https://github.com/npm/registry/issues/42) 
+- [My Top Apps for 2017 – Medium](https://medium.com/@zenorocha/my-top-apps-for-2017-62473cf873a4#.hmchfka20) 
