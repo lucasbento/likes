@@ -92,3 +92,6 @@ Everything I liked
 
 ### November 28, 2016
 - [Your First GraphQL Server – The GraphQLHub – Medium](https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2#.8d4d2xqd7) 
+
+### November 29, 2016
+- [README.md not updating across publishes. · Issue #42 · npm/registry](https://github.com/npm/registry/issues/42) 
