@@ -97,3 +97,6 @@ Everything I liked
 - [README.md not updating across publishes. · Issue #42 · npm/registry](https://github.com/npm/registry/issues/42) 
 - [My Top Apps for 2017 – Medium](https://medium.com/@zenorocha/my-top-apps-for-2017-62473cf873a4#.hmchfka20) 
 - [Shipping Flowtype Definitions in NPM Packages – Medium](https://medium.com/@ryyppy/shipping-flowtype-definitions-in-npm-packages-c987917efb65#.3dvh292r2) 
+
+### December 1, 2016
+- [Announcing Create-GraphQL – Entria – Medium](https://medium.com/entria/announcing-create-graphql-17bdd81b9f96#.l69o3du7d) 
