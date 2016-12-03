@@ -103,3 +103,6 @@ Everything I liked
 
 ### December 2, 2016
 - [Complaining about open source software – Medium](https://medium.com/@thejameskyle/complaining-about-open-source-software-1f7c075a9942#.uj6r49iyi) 
+
+### December 3, 2016
+- [How to Design a Winning Newsfeed — UX Blog](https://theuxblog.com/blog/newsfeed-user-experience-design?ref=quuu&utm_content=buffereb0d1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
