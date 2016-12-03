@@ -100,3 +100,6 @@ Everything I liked
 
 ### December 1, 2016
 - [Announcing Create-GraphQL – Entria – Medium](https://medium.com/entria/announcing-create-graphql-17bdd81b9f96#.l69o3du7d) 
+
+### December 2, 2016
+- [Complaining about open source software – Medium](https://medium.com/@thejameskyle/complaining-about-open-source-software-1f7c075a9942#.uj6r49iyi) 
