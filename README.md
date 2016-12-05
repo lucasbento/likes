@@ -106,3 +106,6 @@ Everything I liked
 
 ### December 3, 2016
 - [How to Design a Winning Newsfeed — UX Blog](https://theuxblog.com/blog/newsfeed-user-experience-design?ref=quuu&utm_content=buffereb0d1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### December 5, 2016
+- [Two Quick Ways To Reduce React App’s Size In Production – Medium](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.f0489ozeb) 
