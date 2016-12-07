@@ -114,3 +114,6 @@ Everything I liked
 
 ### December 6, 2016
 - [Dear JavaScript, – Medium](https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.sh58euclg) 
+
+### December 7, 2016
+- [Relay Global Object Identification Specification](https://facebook.github.io/relay/graphql/objectidentification.htm) 
