@@ -121,3 +121,4 @@ Everything I liked
 ### December 9, 2016
 - [How is TJ Holowaychuk so insanely productive? – Medium](https://medium.com/@kelas/how-is-tj-holowaychuk-so-insanely-productive-604818b4e9eb#.9323xu43x) 
 - [SVG Animated icons](http://codepen.io/airnan/pen/RazwzX) 
+- [GraphQL Weekly - Newsletter about GraphQL, Relay and more](https://graphqlweekly.com/issues/32) 
