@@ -117,3 +117,6 @@ Everything I liked
 
 ### December 7, 2016
 - [Relay Global Object Identification Specification](https://facebook.github.io/relay/graphql/objectidentification.htm) 
+
+### December 9, 2016
+- [How is TJ Holowaychuk so insanely productive? – Medium](https://medium.com/@kelas/how-is-tj-holowaychuk-so-insanely-productive-604818b4e9eb#.9323xu43x) 
