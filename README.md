@@ -129,3 +129,4 @@ Everything I liked
 - [React Native Periscope Hearts Animation — JavaScript Without Grammar](http://browniefed.com/blog/react-native-periscope-hearts-animation/) 
 - [React-native Animated ScrollView Row Swipe Actions — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-listview-row-swipe/) 
 - [React-native Animated API with PanResponder — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) 
+- [React Native - How to create Twitter exploding hearts — JavaScript Without Grammar](http://browniefed.com/blog/react-native-how-to-create-twitter-exploding-hearts/) 
