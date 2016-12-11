@@ -127,3 +127,4 @@ Everything I liked
 - [Interesting React-Native projects to learn from](https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.oz2d7m1cj) 
 - [React Native - Morphing SVG Paths with React Art — JavaScript Without Grammar](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/) 
 - [React Native Periscope Hearts Animation — JavaScript Without Grammar](http://browniefed.com/blog/react-native-periscope-hearts-animation/) 
+- [React-native Animated ScrollView Row Swipe Actions — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-listview-row-swipe/) 
