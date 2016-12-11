@@ -128,3 +128,4 @@ Everything I liked
 - [React Native - Morphing SVG Paths with React Art — JavaScript Without Grammar](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/) 
 - [React Native Periscope Hearts Animation — JavaScript Without Grammar](http://browniefed.com/blog/react-native-periscope-hearts-animation/) 
 - [React-native Animated ScrollView Row Swipe Actions — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-listview-row-swipe/) 
+- [React-native Animated API with PanResponder — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) 
