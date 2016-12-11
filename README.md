@@ -125,3 +125,4 @@ Everything I liked
 
 ### December 11, 2016
 - [Interesting React-Native projects to learn from](https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.oz2d7m1cj) 
+- [React Native - Morphing SVG Paths with React Art — JavaScript Without Grammar](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/) 
