@@ -130,3 +130,4 @@ Everything I liked
 - [React-native Animated ScrollView Row Swipe Actions — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-listview-row-swipe/) 
 - [React-native Animated API with PanResponder — JavaScript Without Grammar](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) 
 - [React Native - How to create Twitter exploding hearts — JavaScript Without Grammar](http://browniefed.com/blog/react-native-how-to-create-twitter-exploding-hearts/) 
+- [React Native Youtube Animated Video Slide — JavaScript Without Grammar](http://browniefed.com/blog/react-native-youtube-animated-video-slide/) 
