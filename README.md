@@ -134,3 +134,4 @@ Everything I liked
 
 ### December 12, 2016
 - [The Shapes of React Native — JavaScript Without Grammar](http://browniefed.com/blog/the-shapes-of-react-native/) 
+- [Top JavaScript Frameworks & Topics to Learn in 2017 – JavaScript Scene – Medium](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.uy3dz9a0h) 
