@@ -140,3 +140,4 @@ Everything I liked
 - [Testing your React Native apps](https://blog.callstack.io/testing-your-react-native-apps-abfe41903dfd#.pl82dro9l) 
 - [Testing your React Native apps](https://blog.callstack.io/testing-your-react-native-apps-abfe41903dfd#.f0pfcfesz) 
 - [A Mini-Course on React Native Flexbox – The React Native Log – Medium](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6#.insf6wetc) 
+- [How I built React Native Tab View – Medium](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.o2rebbs1k) 
