@@ -138,3 +138,4 @@ Everything I liked
 
 ### December 13, 2016
 - [Testing your React Native apps](https://blog.callstack.io/testing-your-react-native-apps-abfe41903dfd#.pl82dro9l) 
+- [Testing your React Native apps](https://blog.callstack.io/testing-your-react-native-apps-abfe41903dfd#.f0pfcfesz) 
