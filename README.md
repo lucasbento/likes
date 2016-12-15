@@ -142,3 +142,6 @@ Everything I liked
 - [A Mini-Course on React Native Flexbox – The React Native Log – Medium](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6#.insf6wetc) 
 - [How I built React Native Tab View – Medium](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.o2rebbs1k) 
 - [11 lessons learned as a React contractor – Medium](https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.ouyf24anr) 
+
+### December 14, 2016
+- [The Cost of Native Mobile App Development is Too Damn High! – Medium](https://medium.com/@dabit3/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a#.ovw3ze64q) 
