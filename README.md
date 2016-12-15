@@ -145,3 +145,6 @@ Everything I liked
 
 ### December 14, 2016
 - [The Cost of Native Mobile App Development is Too Damn High! – Medium](https://medium.com/@dabit3/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a#.ovw3ze64q) 
+
+### December 15, 2016
+- [Profile – iOSUp](https://ios.uplabs.com/posts/profile-38760393-4691-432e-b636-9682ecbc53b2) 
