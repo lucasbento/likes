@@ -149,3 +149,6 @@ Everything I liked
 ### December 15, 2016
 - [Profile – iOSUp](https://ios.uplabs.com/posts/profile-38760393-4691-432e-b636-9682ecbc53b2) 
 - [Learn Apollo: Build GraphQL Apps with React, React Native or Exponent](https://dev-blog.apollodata.com/learn-apollo-build-graphql-apps-with-react-react-native-or-exponent-4787269a4747#.k953keleo) 
+
+### December 19, 2016
+- [Moving existing API from REST to GraphQL – Medium](https://medium.com/@raxwunter/moving-existing-api-from-rest-to-graphql-205bab22c184#.ksluhsywn) 
