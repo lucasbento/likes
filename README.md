@@ -162,3 +162,4 @@ Everything I liked
 ### December 22, 2016
 - [/usr/bin/zsh - asciinema](https://asciinema.org/a/cn20v8fy6wrhab4l5kifv6dce) 
 - [Become a Command Line Power User with Oh-My-ZSH and Z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/) 
+- [Cheatsheet · robbyrussell/oh-my-zsh Wiki](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git) 
