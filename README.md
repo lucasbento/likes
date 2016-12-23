@@ -158,3 +158,6 @@ Everything I liked
 ### December 21, 2016
 - [Apollo on React Native Radio](https://dev-blog.apollodata.com/apollo-on-react-native-radio-4b0f0df53321#.lsgljrn6v) 
 - [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.5x8blmqzd) 
+
+### December 22, 2016
+- [/usr/bin/zsh - asciinema](https://asciinema.org/a/cn20v8fy6wrhab4l5kifv6dce) 
