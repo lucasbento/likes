@@ -166,3 +166,4 @@ Everything I liked
 
 ### December 23, 2016
 - [Why the Elixir language has great potential – code & coffee](http://adrian-philipp.com/post/why-elixir-has-great-potential?utm_source=hashnode.com) 
+- [Reducing Webpack bundle.js size](https://medium.lucaskatayama.com/reducing-bundle-js-size-from-webpack-8a9c3adbdad4#.shc1x5qgh) 
