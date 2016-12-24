@@ -167,3 +167,6 @@ Everything I liked
 ### December 23, 2016
 - [Why the Elixir language has great potential – code & coffee](http://adrian-philipp.com/post/why-elixir-has-great-potential?utm_source=hashnode.com) 
 - [Reducing Webpack bundle.js size](https://medium.lucaskatayama.com/reducing-bundle-js-size-from-webpack-8a9c3adbdad4#.shc1x5qgh) 
+
+### December 24, 2016
+- [Building a RESTful API With Node, Flow, and Jest - Michael Herman](http://mherman.org/blog/2016/12/23/building-a-restful-api-with-node-and-flow/#.WF4hvrZ96Aw?utm_source=hashnode.com) 
