@@ -173,3 +173,4 @@ Everything I liked
 
 ### December 25, 2016
 - [JavaScript Clean Coding Best Practices | @RisingStack](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/) 
+- [Why I quit my job at Microsoft to start a Startup](https://hackernoon.com/why-i-quit-my-job-at-microsoft-to-start-a-startup-9b4d82545726#.qcn8b1k91) 
