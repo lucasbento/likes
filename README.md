@@ -170,3 +170,6 @@ Everything I liked
 
 ### December 24, 2016
 - [Building a RESTful API With Node, Flow, and Jest - Michael Herman](http://mherman.org/blog/2016/12/23/building-a-restful-api-with-node-and-flow/#.WF4hvrZ96Aw?utm_source=hashnode.com) 
+
+### December 25, 2016
+- [JavaScript Clean Coding Best Practices | @RisingStack](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/) 
