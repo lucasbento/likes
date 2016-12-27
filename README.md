@@ -179,3 +179,4 @@ Everything I liked
 
 ### December 27, 2016
 - [What to learn in 2017 if you’re a frontend developer – Medium](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.39h7u2vjp) 
+- [How to Use Animation to Improve UX](http://babich.biz/how-to-use-animation-to-improve-ux/) 
