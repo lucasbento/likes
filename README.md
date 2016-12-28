@@ -185,3 +185,4 @@ Everything I liked
 ### December 28, 2016
 - [Horizontal Timeline in CSS and jQuery | CodyHouse](https://codyhouse.co/gem/horizontal-timeline/) 
 - [davidhund/styleguide-generators: An overview of automatic living styleguide generators](https://github.com/davidhund/styleguide-generators#user-content-react) 
+- [React “Aha” Moments](https://medium.freecodecamp.com/react-aha-moments-4b92bd36cc4e#.9jr2nr327) 
