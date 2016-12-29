@@ -187,3 +187,6 @@ Everything I liked
 - [davidhund/styleguide-generators: An overview of automatic living styleguide generators](https://github.com/davidhund/styleguide-generators#user-content-react) 
 - [React “Aha” Moments](https://medium.freecodecamp.com/react-aha-moments-4b92bd36cc4e#.9jr2nr327) 
 - [Migrating to Jest – Medium](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.kxhi6gb5b) 
+
+### December 29, 2016
+- [Travel Application – MaterialUp](https://material.uplabs.com/posts/travel-application) 
