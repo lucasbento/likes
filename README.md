@@ -191,3 +191,6 @@ Everything I liked
 ### December 29, 2016
 - [Travel Application – MaterialUp](https://material.uplabs.com/posts/travel-application) 
 - [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.phsr6xtzj) 
+
+### December 30, 2016
+- [Include the NativeAnimation module on iOS in the starter project · Issue #10638 · facebook/react-native](https://github.com/facebook/react-native/issues/10638) 
