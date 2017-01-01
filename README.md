@@ -195,3 +195,6 @@ Everything I liked
 ### December 30, 2016
 - [Include the NativeAnimation module on iOS in the starter project · Issue #10638 · facebook/react-native](https://github.com/facebook/react-native/issues/10638) 
 - [Linking Libraries](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#manual-linking) 
+
+### January 1, 2017
+- [exponent/react-conf-experience: An app for React Conf 2016](https://github.com/exponent/react-conf-experience) 
