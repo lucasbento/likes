@@ -198,3 +198,6 @@ Everything I liked
 
 ### January 1, 2017
 - [exponent/react-conf-experience: An app for React Conf 2016](https://github.com/exponent/react-conf-experience) 
+
+### January 2, 2017
+- [Text Input Effects | Set 1](https://tympanus.net/Development/TextInputEffects/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
