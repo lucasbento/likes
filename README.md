@@ -204,3 +204,4 @@ Everything I liked
 
 ### January 3, 2017
 - [How I made a SaaS webservice earning $1000 monthly profit](https://hackernoon.com/how-i-made-a-saas-webservice-earning-1000-monthly-profit-6d2b782b95c8#.hxz3e22wz) 
+- [Invalid 'this' binding with async arrow function class properties · Issue #391 · gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader/issues/391) 
