@@ -201,3 +201,6 @@ Everything I liked
 
 ### January 2, 2017
 - [Text Input Effects | Set 1](https://tympanus.net/Development/TextInputEffects/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### January 3, 2017
+- [How I made a SaaS webservice earning $1000 monthly profit](https://hackernoon.com/how-i-made-a-saas-webservice-earning-1000-monthly-profit-6d2b782b95c8#.hxz3e22wz) 
