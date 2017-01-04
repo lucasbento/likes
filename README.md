@@ -206,3 +206,6 @@ Everything I liked
 - [How I made a SaaS webservice earning $1000 monthly profit](https://hackernoon.com/how-i-made-a-saas-webservice-earning-1000-monthly-profit-6d2b782b95c8#.hxz3e22wz) 
 - [Invalid 'this' binding with async arrow function class properties · Issue #391 · gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader/issues/391) 
 - [My exponent's ex-navigation docs/thoughts](https://gist.github.com/knowbody/ce483742a1761658b767428a0ed35147#modals) 
+
+### January 4, 2017
+- [Testing React & Redux Applications – Medium](https://medium.com/@ryancollinsio/testing-react-redux-applications-fee79ac0087f#.2z8fu3ac1) 
