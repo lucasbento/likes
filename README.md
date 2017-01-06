@@ -213,3 +213,6 @@ Everything I liked
 
 ### January 5, 2017
 - [yeoman/update-notifier: Update notifications for your CLI app](https://github.com/yeoman/update-notifier) 
+
+### January 6, 2017
+- [React Native animations revisited — Part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.la9kgoy8u) 
