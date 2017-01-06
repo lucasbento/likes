@@ -210,3 +210,6 @@ Everything I liked
 ### January 4, 2017
 - [Testing React & Redux Applications – Medium](https://medium.com/@ryancollinsio/testing-react-redux-applications-fee79ac0087f#.2z8fu3ac1) 
 - [Responding to the keyboard with React Native](https://blog.callstack.io/writing-modern-react-native-ui-e317ff956f02#.7cmr7agu8) 
+
+### January 5, 2017
+- [yeoman/update-notifier: Update notifications for your CLI app](https://github.com/yeoman/update-notifier) 
