@@ -216,3 +216,4 @@ Everything I liked
 
 ### January 6, 2017
 - [React Native animations revisited — Part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.la9kgoy8u) 
+- [React Native animations revisited — Part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.la9kgoy8u) 
