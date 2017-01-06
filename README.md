@@ -218,3 +218,4 @@ Everything I liked
 - [React Native animations revisited — Part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.la9kgoy8u) 
 - [React Native animations revisited — Part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.la9kgoy8u) 
 - [San Francisco in React Native – Medium](https://medium.com/@arpith/san-francisco-in-react-native-d83207418280#.iyhbhn7cx) 
+- [Creating an SVG Icon System in React Native – Medium](https://medium.com/@stowball/creating-an-svg-icon-system-in-react-native-fa0964ea5fe4#.wgnltzp2r) 
