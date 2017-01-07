@@ -223,3 +223,4 @@ Everything I liked
 
 ### January 7, 2017
 - [Fast and Fluid Infinite List with React Native](https://blog.getchop.io/fast-and-fluid-infinite-list-with-react-native-336d010e51f2#.xhev6iip7) 
+- [Um brasileiro na Bocoup – Medium Brasil – Medium](https://medium.com/brasil/um-brasileiro-na-bocoup-1b0f0fb9a9eb#.h0fd3nn8j) 
