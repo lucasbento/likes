@@ -220,3 +220,6 @@ Everything I liked
 - [San Francisco in React Native – Medium](https://medium.com/@arpith/san-francisco-in-react-native-d83207418280#.iyhbhn7cx) 
 - [Creating an SVG Icon System in React Native – Medium](https://medium.com/@stowball/creating-an-svg-icon-system-in-react-native-fa0964ea5fe4#.wgnltzp2r) 
 - [DyegoCosta/trabalhando-remoto: Informações para quem trabalha ou quer trabalhar remoto](https://github.com/DyegoCosta/trabalhando-remoto) 
+
+### January 7, 2017
+- [Fast and Fluid Infinite List with React Native](https://blog.getchop.io/fast-and-fluid-infinite-list-with-react-native-336d010e51f2#.xhev6iip7) 
