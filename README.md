@@ -225,3 +225,6 @@ Everything I liked
 - [Fast and Fluid Infinite List with React Native](https://blog.getchop.io/fast-and-fluid-infinite-list-with-react-native-336d010e51f2#.xhev6iip7) 
 - [Um brasileiro na Bocoup – Medium Brasil – Medium](https://medium.com/brasil/um-brasileiro-na-bocoup-1b0f0fb9a9eb#.h0fd3nn8j) 
 - [(1) Trabalhar no exterior · Issue #56 · frontendbr/forum](https://github.com/frontendbr/forum/issues/56#issuecomment-271073602) 
+
+### January 8, 2017
+- [Recycling Rows For High Performance React Native List Views – Medium](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.4re8enhzk) 
