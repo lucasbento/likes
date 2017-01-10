@@ -232,3 +232,4 @@ Everything I liked
 ### January 10, 2017
 - [React Native animations revisited — Part II](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.h0s4jljrf) 
 - [React Interview Questions](https://medium.com/@tylermcginnis/react-interview-questions-c8a319ed02bd#.jr7q36pmm) 
+- [Git Kung Fu | theKindOfMe](https://thekindofme.wordpress.com/2011/04/07/git-kung-fu/) 
