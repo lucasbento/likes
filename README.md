@@ -228,3 +228,6 @@ Everything I liked
 
 ### January 8, 2017
 - [Recycling Rows For High Performance React Native List Views – Medium](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.4re8enhzk) 
+
+### January 10, 2017
+- [React Native animations revisited — Part II](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.h0s4jljrf) 
