@@ -234,3 +234,6 @@ Everything I liked
 - [React Interview Questions](https://medium.com/@tylermcginnis/react-interview-questions-c8a319ed02bd#.jr7q36pmm) 
 - [Git Kung Fu | theKindOfMe](https://thekindofme.wordpress.com/2011/04/07/git-kung-fu/) 
 - [Doclets](https://doclets.io/) 
+
+### January 11, 2017
+- [The mind-blowing AI announcement from Google that you probably missed.](https://medium.freecodecamp.com/the-mind-blowing-ai-announcement-from-google-that-you-probably-missed-2ffd31334805#.z1ukcisw6) 
