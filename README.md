@@ -237,3 +237,6 @@ Everything I liked
 
 ### January 11, 2017
 - [The mind-blowing AI announcement from Google that you probably missed.](https://medium.freecodecamp.com/the-mind-blowing-ai-announcement-from-google-that-you-probably-missed-2ffd31334805#.z1ukcisw6) 
+
+### January 13, 2017
+- [Recycling Rows for High Performance React Native List Views | Wix Engineering](http://blog.wix.engineering/2016/06/30/recycling-rows-for-high-performance-react-native-list-views/) 
