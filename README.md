@@ -240,3 +240,6 @@ Everything I liked
 
 ### January 13, 2017
 - [Recycling Rows for High Performance React Native List Views | Wix Engineering](http://blog.wix.engineering/2016/06/30/recycling-rows-for-high-performance-react-native-list-views/) 
+
+### January 15, 2017
+- [Getting Started With Digits and React Native – Medium](https://medium.com/@jpdriver/getting-started-with-digits-and-react-native-f79b22439416#.ee9v6bmre) 
