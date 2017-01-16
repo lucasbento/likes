@@ -243,3 +243,6 @@ Everything I liked
 
 ### January 15, 2017
 - [Getting Started With Digits and React Native – Medium](https://medium.com/@jpdriver/getting-started-with-digits-and-react-native-f79b22439416#.ee9v6bmre) 
+
+### January 16, 2017
+- [React.js cheatsheet](http://ricostacruz.com/cheatsheets/react.html) 
