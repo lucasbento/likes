@@ -246,3 +246,6 @@ Everything I liked
 
 ### January 16, 2017
 - [React.js cheatsheet](http://ricostacruz.com/cheatsheets/react.html) 
+
+### January 20, 2017
+- [React Native animations revisited — Part III](https://blog.callstack.io/react-native-animations-revisited-part-iii-41ed43d1ce2e#.hdztps7et) 
