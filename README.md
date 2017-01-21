@@ -249,3 +249,4 @@ Everything I liked
 
 ### January 20, 2017
 - [React Native animations revisited — Part III](https://blog.callstack.io/react-native-animations-revisited-part-iii-41ed43d1ce2e#.hdztps7et) 
+- [Animated Charts in React Native using D3 and ART – The React Native Log – Medium](https://medium.com/the-react-native-log/animated-charts-in-react-native-using-d3-and-art-21cd9ccf6c58#.5sly3wcj3) 
