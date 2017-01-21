@@ -250,3 +250,6 @@ Everything I liked
 ### January 20, 2017
 - [React Native animations revisited — Part III](https://blog.callstack.io/react-native-animations-revisited-part-iii-41ed43d1ce2e#.hdztps7et) 
 - [Animated Charts in React Native using D3 and ART – The React Native Log – Medium](https://medium.com/the-react-native-log/animated-charts-in-react-native-using-d3-and-art-21cd9ccf6c58#.5sly3wcj3) 
+
+### January 21, 2017
+- [upgrade to webpack 2 · superawesomelabs/leo@6aca4e2](https://github.com/superawesomelabs/leo/commit/6aca4e27cce9102921cae65538fd3eda8f1e6046) 
