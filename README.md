@@ -253,3 +253,6 @@ Everything I liked
 
 ### January 21, 2017
 - [upgrade to webpack 2 · superawesomelabs/leo@6aca4e2](https://github.com/superawesomelabs/leo/commit/6aca4e27cce9102921cae65538fd3eda8f1e6046) 
+
+### January 23, 2017
+- [React Native Debugger](http://localhost:8081/debugger-ui) 
