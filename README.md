@@ -256,3 +256,6 @@ Everything I liked
 
 ### January 23, 2017
 - [Controlling your own wealth as a basic human right – Medium](https://medium.com/@barmstrong/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f#.othk7x6cg) 
+
+### January 25, 2017
+- [How to build the next Trello and sell it for $425 million or more – DisruptiveHQ – Medium](https://medium.com/disruptivehq/how-to-build-the-next-trello-and-sell-it-for-425-million-or-more-589045c9bd64#.5esnxbpej) 
