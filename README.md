@@ -259,3 +259,4 @@ Everything I liked
 
 ### January 25, 2017
 - [How to build the next Trello and sell it for $425 million or more – DisruptiveHQ – Medium](https://medium.com/disruptivehq/how-to-build-the-next-trello-and-sell-it-for-425-million-or-more-589045c9bd64#.5esnxbpej) 
+- [Simple way to create animated view transitions in react native – Technoetics – Medium](https://medium.com/technoetics/simple-way-to-create-animated-view-transitions-in-react-native-9d01cfece24c#.en6zlzibq) 
