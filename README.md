@@ -264,3 +264,4 @@ Everything I liked
 
 ### January 26, 2017
 - [Dribbble - home-page.jpg by Eftakher Alam⚡️](https://dribbble.com/shots/3216311-Markety-Homepage-Freebie/attachments/687092) 
+- [Dribbble - minimal.png by Anton Chandra](https://dribbble.com/shots/3239377-Minimal-UI-Kit/attachments/694096) 
