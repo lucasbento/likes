@@ -261,3 +261,6 @@ Everything I liked
 - [How to build the next Trello and sell it for $425 million or more – DisruptiveHQ – Medium](https://medium.com/disruptivehq/how-to-build-the-next-trello-and-sell-it-for-425-million-or-more-589045c9bd64#.5esnxbpej) 
 - [Simple way to create animated view transitions in react native – Technoetics – Medium](https://medium.com/technoetics/simple-way-to-create-animated-view-transitions-in-react-native-9d01cfece24c#.en6zlzibq) 
 - [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs | TechCrunch](https://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/) 
+
+### January 26, 2017
+- [Dribbble - home-page.jpg by Eftakher Alam⚡️](https://dribbble.com/shots/3216311-Markety-Homepage-Freebie/attachments/687092) 
