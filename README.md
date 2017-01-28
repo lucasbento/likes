@@ -269,3 +269,6 @@ Everything I liked
 ### January 27, 2017
 - [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/?utm_source=reactnl&utm_medium=email) 
 - [5 Reasons Why I Chose React Native Over Traditional App Development](https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a#.cey8vpfsx) 
+
+### January 28, 2017
+- [GraphQL :: A data query language – Medium](https://medium.com/@muhammadin87/graphql-a-data-query-language-e22e2d2f8eeb#.98ys1rgc6) 
