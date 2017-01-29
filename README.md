@@ -273,3 +273,6 @@ Everything I liked
 ### January 28, 2017
 - [GraphQL :: A data query language – Medium](https://medium.com/@muhammadin87/graphql-a-data-query-language-e22e2d2f8eeb#.98ys1rgc6) 
 - [Prerender - AngularJS SEO, BackboneJS SEO, or EmberJS SEO](https://prerender.io/) 
+
+### January 29, 2017
+- [Things I learned the hard way using React Native](https://gist.github.com/rreusser/c673bb3ec5316cf3bd46a18d4777eff3) 
