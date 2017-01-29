@@ -276,3 +276,4 @@ Everything I liked
 
 ### January 29, 2017
 - [Things I learned the hard way using React Native](https://gist.github.com/rreusser/c673bb3ec5316cf3bd46a18d4777eff3) 
+- [Ways to Remove Those Pesky console.log Statements · Elijah Manor](http://elijahmanor.com/grunt-away-those-pesky-console-log-statements/) 
