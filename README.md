@@ -277,3 +277,4 @@ Everything I liked
 ### January 29, 2017
 - [Things I learned the hard way using React Native](https://gist.github.com/rreusser/c673bb3ec5316cf3bd46a18d4777eff3) 
 - [Ways to Remove Those Pesky console.log Statements · Elijah Manor](http://elijahmanor.com/grunt-away-those-pesky-console-log-statements/) 
+- [Dan Abramov no Twitter: "Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R" .](https://twitter.com/dan_abramov/status/824308413559668744) 
