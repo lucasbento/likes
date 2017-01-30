@@ -279,3 +279,6 @@ Everything I liked
 - [Ways to Remove Those Pesky console.log Statements · Elijah Manor](http://elijahmanor.com/grunt-away-those-pesky-console-log-statements/) 
 - [Dan Abramov no Twitter: "Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R" .](https://twitter.com/dan_abramov/status/824308413559668744) 
 - [React Native Animations Using the Animated API – React Native Training – Medium](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae#.ftgq8851t) 
+
+### January 30, 2017
+- [Relay and GraphQL Introduction Materials - Quip](https://quip.com/oLxzA1gTsJsE) 
