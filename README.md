@@ -282,3 +282,4 @@ Everything I liked
 
 ### January 30, 2017
 - [Relay and GraphQL Introduction Materials - Quip](https://quip.com/oLxzA1gTsJsE) 
+- [Elastic Beanstalk Deployment: nginx](http://blog.digitopia.com/elastic-beanstalk-deployment-nginx/) 
