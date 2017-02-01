@@ -283,3 +283,6 @@ Everything I liked
 ### January 30, 2017
 - [Relay and GraphQL Introduction Materials - Quip](https://quip.com/oLxzA1gTsJsE) 
 - [Elastic Beanstalk Deployment: nginx](http://blog.digitopia.com/elastic-beanstalk-deployment-nginx/) 
+
+### February 1, 2017
+- [airbnb/lottie-react-native: Lottie wrapper for React Native.](https://github.com/airbnb/lottie-react-native) 
