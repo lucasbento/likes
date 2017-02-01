@@ -287,3 +287,4 @@ Everything I liked
 ### February 1, 2017
 - [airbnb/lottie-react-native: Lottie wrapper for React Native.](https://github.com/airbnb/lottie-react-native) 
 - [Spotify engineering culture (part 1) | Labs](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) 
+- [Introducing Lottie – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.ukewvoddu) 
