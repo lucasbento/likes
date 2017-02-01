@@ -288,3 +288,4 @@ Everything I liked
 - [airbnb/lottie-react-native: Lottie wrapper for React Native.](https://github.com/airbnb/lottie-react-native) 
 - [Spotify engineering culture (part 1) | Labs](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) 
 - [Introducing Lottie – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.ukewvoddu) 
+- [Como identificar se eu/vc estamos acomodados com a tecnologia que já sabemos? · Issue #419 · frontendbr/forum](https://github.com/frontendbr/forum/issues/419#issuecomment-275942252) 
