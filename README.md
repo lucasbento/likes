@@ -289,3 +289,6 @@ Everything I liked
 - [Spotify engineering culture (part 1) | Labs](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) 
 - [Introducing Lottie – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.ukewvoddu) 
 - [Como identificar se eu/vc estamos acomodados com a tecnologia que já sabemos? · Issue #419 · frontendbr/forum](https://github.com/frontendbr/forum/issues/419#issuecomment-275942252) 
+
+### February 2, 2017
+- [Tree-shaking ES6 Modules in webpack 2](https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b#.f7nxv92d9) 
