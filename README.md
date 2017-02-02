@@ -295,3 +295,4 @@ Everything I liked
 - [Tree-shaking ES6 Modules in webpack 2](https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b#.r3w1vomb8) 
 - [braziljs/eloquente-javascript: A portuguese translation of Eloquent JavaScript online book](https://github.com/braziljs/eloquente-javascript/) 
 - [Between the Wires | MooTools](https://betweenthewires.org/between-the-wires-mootools-7ac80d4ca28f#.c8qlia694) 
+- [Let’s drawing charts in React-Native without any library – Medium](https://medium.com/@wwayne_me/let-s-drawing-charts-in-react-native-without-any-library-4c20ba38d8ab#.gyy6i2cv5) 
