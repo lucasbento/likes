@@ -293,3 +293,4 @@ Everything I liked
 ### February 2, 2017
 - [Tree-shaking ES6 Modules in webpack 2](https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b#.f7nxv92d9) 
 - [Tree-shaking ES6 Modules in webpack 2](https://medium.freecodecamp.com/tree-shaking-es6-modules-in-webpack-2-1add6672f31b#.r3w1vomb8) 
+- [braziljs/eloquente-javascript: A portuguese translation of Eloquent JavaScript online book](https://github.com/braziljs/eloquente-javascript/) 
