@@ -296,3 +296,6 @@ Everything I liked
 - [braziljs/eloquente-javascript: A portuguese translation of Eloquent JavaScript online book](https://github.com/braziljs/eloquente-javascript/) 
 - [Between the Wires | MooTools](https://betweenthewires.org/between-the-wires-mootools-7ac80d4ca28f#.c8qlia694) 
 - [Let’s drawing charts in React-Native without any library – Medium](https://medium.com/@wwayne_me/let-s-drawing-charts-in-react-native-without-any-library-4c20ba38d8ab#.gyy6i2cv5) 
+
+### February 3, 2017
+- [chore: update webapck2 · recharts/recharts@c431730](https://github.com/recharts/recharts/commit/c4317306150c856fee1bb33925b70796b46fa39e#diff-354f30a63fb0907d4ad57269548329e3R3) 
