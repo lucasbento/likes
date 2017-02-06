@@ -299,3 +299,6 @@ Everything I liked
 
 ### February 3, 2017
 - [chore: update webapck2 · recharts/recharts@c431730](https://github.com/recharts/recharts/commit/c4317306150c856fee1bb33925b70796b46fa39e#diff-354f30a63fb0907d4ad57269548329e3R3) 
+
+### February 6, 2017
+- [(More than) one million requests per second in Node.js · uWebSockets/uWebSockets Wiki](https://github.com/uWebSockets/uWebSockets/wiki/(More-than)-one-million-requests-per-second-in-Node.js) 
