@@ -302,3 +302,4 @@ Everything I liked
 
 ### February 6, 2017
 - [(More than) one million requests per second in Node.js · uWebSockets/uWebSockets Wiki](https://github.com/uWebSockets/uWebSockets/wiki/(More-than)-one-million-requests-per-second-in-Node.js) 
+- [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.sgnsddvrg) 
