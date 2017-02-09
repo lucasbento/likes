@@ -306,3 +306,4 @@ Everything I liked
 
 ### February 9, 2017
 - [Por que Usamos Immutable.js – Getty/IO Brasil – Medium](https://medium.com/getty-blog-brasil/por-que-usamos-immutable-js-6ef85a4d4604#.2d6b5afid) 
+- [What's new in webpack 2](https://gist.github.com/sokra/27b24881210b56bbaff7#es6-specific-optimizations) 
