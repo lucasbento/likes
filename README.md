@@ -314,3 +314,4 @@ Everything I liked
 - [Spotlight on Electrode Explorer — React Component Reuse Without the Hassle – WalmartLabs – Medium](https://medium.com/walmartlabs/spotlight-on-electrode-explorer-react-component-reuse-without-the-hassle-6447763365b2#.wmaa5hgsh) 
 - [ReactJS: From upside down to right side up! // Speaker Deck](https://speakerdeck.com/pedronauck/reactjs-from-upside-down-to-right-side-up) 
 - [Advanced WebPack Part 2 - Code Splitting](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) 
+- [This Machine Turns Trump Tweets into Planned Parenthood Donations – Medium](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.vplcuh937) 
