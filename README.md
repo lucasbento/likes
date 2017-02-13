@@ -315,3 +315,6 @@ Everything I liked
 - [ReactJS: From upside down to right side up! // Speaker Deck](https://speakerdeck.com/pedronauck/reactjs-from-upside-down-to-right-side-up) 
 - [Advanced WebPack Part 2 - Code Splitting](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) 
 - [This Machine Turns Trump Tweets into Planned Parenthood Donations – Medium](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.vplcuh937) 
+
+### February 13, 2017
+- [Fresh Background Gradients | WebGradients.com](https://webgradients.com/?ref=producthunt) 
