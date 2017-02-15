@@ -321,3 +321,4 @@ Everything I liked
 
 ### February 15, 2017
 - [Straightforward code splitting with React and Webpack](https://hackernoon.com/straightforward-code-splitting-with-react-and-webpack-4b94c28f6c3f#.ujbrod428) 
+- [Makes React Native components look more consistent on different device sizes. The base size is an iPhone 6.](https://gist.github.com/richardgill/b8fbddda2b10261bbb0db2f0cb7090bb) 
