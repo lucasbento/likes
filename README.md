@@ -325,3 +325,6 @@ Everything I liked
 - [I turned $1.24 into $1000 of UberEATS credit](https://hackernoon.com/i-turned-1-24-into-1000-of-uber-eats-credit-a253df32a7d1#.nciy9vj1i) 
 - [ZEIT – Using External DNS Services with Now](https://zeit.co/blog/domain-verification) 
 - [Zeplin](https://zeplin.io/) 
+
+### February 16, 2017
+- [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
