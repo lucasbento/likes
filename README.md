@@ -328,3 +328,6 @@ Everything I liked
 
 ### February 16, 2017
 - [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
+
+### February 17, 2017
+- [React on the Server for Beginners: Build a Universal React and Node App | Scotch](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) 
