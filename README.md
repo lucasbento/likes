@@ -337,3 +337,4 @@ Everything I liked
 
 ### February 23, 2017
 - [Everything you need to know about implementing iOS and Android Mobile Deep Linking – Medium](https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49#.oxc5eqocs) 
+- [Everything you need to know about implementing iOS and Android Mobile Deep Linking – Medium](https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49#.d1b6fwp42) 
