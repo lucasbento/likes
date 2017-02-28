@@ -341,3 +341,6 @@ Everything I liked
 
 ### February 25, 2017
 - [Animations with ReactTransitionGroup – Medium](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.a0c1ifj6h) 
+
+### February 28, 2017
+- [babel/packages/babel-generator at 7.0 · babel/babel](https://github.com/babel/babel/tree/7.0/packages/babel-generator) 
