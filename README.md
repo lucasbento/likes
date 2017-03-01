@@ -348,3 +348,4 @@ Everything I liked
 
 ### March 1, 2017
 - [Perspective](https://www.perspectiveapi.com/) 
+- [Using Native Driver for Animated](https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-animated.html) 
