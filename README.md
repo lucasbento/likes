@@ -350,3 +350,6 @@ Everything I liked
 - [Perspective](https://www.perspectiveapi.com/) 
 - [Using Native Driver for Animated](https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-animated.html) 
 - [CLI: Add support for templates fetched from npm by mkonicek · Pull Request #12548 · facebook/react-native](https://github.com/facebook/react-native/pull/12548) 
+
+### May 8, 2017
+- [Why you should enforce Dangling Commas for Multiline Statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8) 
