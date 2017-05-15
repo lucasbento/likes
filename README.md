@@ -353,3 +353,6 @@ Everything I liked
 
 ### May 8, 2017
 - [Why you should enforce Dangling Commas for Multiline Statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8) 
+
+### May 15, 2017
+- [Rearchitecting Airbnb’s Frontend – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2) 
