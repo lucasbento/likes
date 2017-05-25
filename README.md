@@ -356,3 +356,6 @@ Everything I liked
 
 ### May 15, 2017
 - [Rearchitecting Airbnb’s Frontend – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2) 
+
+### May 25, 2017
+- [Building an Authentication Flow with React Navigation](https://medium.com/the-react-native-log/building-an-authentication-flow-with-react-navigation-fb5de2203b5c) 
