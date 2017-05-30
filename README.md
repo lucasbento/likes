@@ -359,3 +359,6 @@ Everything I liked
 
 ### May 25, 2017
 - [Building an Authentication Flow with React Navigation](https://medium.com/the-react-native-log/building-an-authentication-flow-with-react-navigation-fb5de2203b5c) 
+
+### May 30, 2017
+- [Apartment for rent: Jan Muschstraat, Amsterdam for €1,300](https://www.pararius.com/apartment-for-rent/amsterdam/PR0001379287/jan-muschstraat) 
